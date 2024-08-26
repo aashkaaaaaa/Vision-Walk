@@ -1,2 +1,2 @@
 # Vision-Walk
-IOT - based project. Shoes for bilnd people
+IOT-based project. Shoes for blind people
